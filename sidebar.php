@@ -12,4 +12,6 @@
 	</div>
 
 </aside>
+
+<!-- I am adding a comment to test Git. -->
 <!-- /sidebar -->
